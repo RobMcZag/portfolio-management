@@ -32,12 +32,19 @@ Welcome to my repository for portfolio management strategy and tools.
   So after opening a position it will be normal to manage both winners and losers!  
   
   The main activities are:
-  - [opening a position]((position-open.md))
-  - [managing a loosing position](position-losing.md)
-  - [managing a winning position](position-winning.md)
+  - [opening a position](position-open.md)
+  - [managing a loosing position](managing-losers.md)
+  - [managing a winning position](managing-winners.md)
 
 # Tools
-- XL: loosing position scenarios
-- XL: taking profits on winners to let them run
+- [ ] XL: loosing position scenarios
+- [ ] XL: increasing winning positions
+- [ ] XL: taking profits on winners to let them run
 
-(C) 2021 Roberto Zagni - All rights reserved 
+# Author
+**Roberto Zagni**  
+(C) 2021 - All rights reserved
+
+# References
+- "The art of execution" by Lee Freeman-Shor,  
+  published by Harriman House

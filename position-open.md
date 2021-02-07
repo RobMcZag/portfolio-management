@@ -53,3 +53,8 @@ It consists of four main parts:
     What strategy to use to get to a ful position?
     - sell PUT to buy lower or make a profit while waiting ? 
     - put next order already at what discount?
+
+[[opening a position]](position-open.md) - 
+[[managing a loosing position]](managing-losers.md) - 
+[[managing a winning position]](managing-winners.md) - 
+[[back to home]](README.md)
