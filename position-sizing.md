@@ -30,3 +30,9 @@
     e.g. AM & AR are strictly related, and we could consider NG (natural gas) 
     to be closely related too, as revenue and performance of AM and AR,
     including market appreciation of them, are closely related to NG futures.
+
+
+[[back to home]](README.md) - 
+[[opening a position]](position-open.md) -
+[[managing a loosing position]](managing-losers.md) -
+[[managing a winning position]](managing-winners.md)
