@@ -19,4 +19,4 @@ Welcome to my repository for portfolio management strategy and tools.
     eventually taking a bit of profit when you start be over 100%
     
 # Portfolio management
-- [position sizing](position-size.md)
+- [position sizing](position-sizing.md)
